@@ -1,3 +1,3 @@
 
 
-<h2 style="color:red;background-color:yellow;">Please try my <span style="color:yellow">Movie Seat App </span> Project from👉<a href="https://mnrgdkl.github.io/JS-Project-007--Movie-Seat-App/" target="_blank" rel="noopener noreferrer"> here</a> </h2>
+<h2>Please try my <em>"Movie Seat App"</em> Project from👉<a href="https://mnrgdkl.github.io/JS-Project-007--Movie-Seat-App/" target="_blank" rel="noopener noreferrer"> here</a> </h2>
